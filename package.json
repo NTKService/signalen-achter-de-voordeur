@@ -1,7 +1,7 @@
 {
   "name": "signalen-achter-de-voordeur",
-  "version": "3.0.0",
-  "description": "Prototype versie 3 van het meldformulier 'Signalen achter de voordeur' (afstudeeronderzoek). Er worden geen gegevens verstuurd of opgeslagen.",
+  "version": "3.1.0",
+  "description": "Testprototype versie 3 van het meldformulier 'Signalen achter de voordeur' (afstudeeronderzoek). Geen officieel meldsysteem; testinzendingen worden tijdelijk bewaard.",
   "main": "server.js",
   "scripts": { "start": "node server.js" },
   "engines": { "node": ">=18" },
