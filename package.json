@@ -1,0 +1,10 @@
+{
+  "name": "signalen-achter-de-voordeur",
+  "version": "3.0.0",
+  "description": "Prototype versie 3 van het meldformulier 'Signalen achter de voordeur' (afstudeeronderzoek). Er worden geen gegevens verstuurd of opgeslagen.",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=18" },
+  "license": "UNLICENSED",
+  "private": true
+}
